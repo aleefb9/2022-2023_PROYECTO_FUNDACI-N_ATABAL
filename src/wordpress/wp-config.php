@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-ini_set('memory_limit', '256M');
+ini_set('memory_limit', '512M');
 
 
 define( 'DB_NAME', 'user2daw_BD2-18' );
