@@ -1,0 +1,4 @@
+2023-05-31T19:10:20+00:00 CRITICAL Cannot declare class RedsysAPI, because the name is already in use en /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/redsyspur/apiRedsys/apiRedsysFinal.php en la línea 29
+
+2023-05-31T19:10:43+00:00 CRITICAL Cannot declare class RedsysAPI, because the name is already in use en /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/redsyspur/apiRedsys/apiRedsysFinal.php en la línea 29
+

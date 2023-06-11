@@ -1,0 +1,28 @@
+09-06-2023 09:32:50 - INFO  - 7.8.3 - 121,9 MB/512 MB - root > Start upgrade from 0.0.0
+09-06-2023 09:32:50 - INFO  - 7.8.3 - 124,1 MB/512 MB - root > Array
+(
+    [`FA_newsletter_emails`] => Created table `FA_newsletter_emails`
+)
+
+09-06-2023 09:32:50 - INFO  - 7.8.3 - 124,1 MB/512 MB - root > Array
+(
+    [`FA_newsletter_sent`] => Created table `FA_newsletter_sent`
+)
+
+09-06-2023 09:32:50 - INFO  - 7.8.3 - 124,2 MB/512 MB - root > Array
+(
+    [`FA_newsletter`] => Created table `FA_newsletter`
+)
+
+09-06-2023 09:32:50 - INFO  - 7.8.3 - 124,1 MB/512 MB - root > Array
+(
+    [`FA_newsletter_user_logs`] => Created table `FA_newsletter_user_logs`
+)
+
+09-06-2023 09:32:50 - INFO  - 7.8.3 - 124,1 MB/512 MB - root > Array
+(
+    [`FA_newsletter_stats`] => Created table `FA_newsletter_stats`
+)
+
+09-06-2023 09:32:50 - INFO  - 7.8.3 - 124,2 MB/512 MB - root > Backing up options of 0.0.0
+09-06-2023 09:32:50 - INFO  - 7.8.3 - 124,1 MB/512 MB - root > End
