@@ -1,0 +1,126 @@
+2023-06-12T06:16:57+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z617
+2023-06-12T06:16:59+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z619
+2023-06-12T06:54:04+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z844
+2023-06-12T06:54:06+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z846
+2023-06-12T08:11:54+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z514
+2023-06-12T08:11:55+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z515
+2023-06-12T08:18:43+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z923
+2023-06-12T08:18:44+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z924
+2023-06-12T10:28:15+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z695
+2023-06-12T10:28:18+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z698
+2023-06-12T10:41:29+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z489
+2023-06-12T10:41:30+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z490
+2023-06-12T10:55:10+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z310
+2023-06-12T10:55:12+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z312
+2023-06-12T10:55:31+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z331
+2023-06-12T10:55:33+00:00 INFO a4X1doZtgnflSUmWHJzOcK6hPMj6Ov -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00000000z333
+2023-06-12T10:55:37+00:00 INFO HsgOhcZEnV1FyjeKjUqgn27OzyhCNK -- ****** NUEVO PEDIDO ******
+2023-06-12T10:55:37+00:00 INFO HsgOhcZEnV1FyjeKjUqgn27OzyhCNK -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T10:55:37+00:00 INFO HsgOhcZEnV1FyjeKjUqgn27OzyhCNK -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T10:55:37+00:00 INFO HsgOhcZEnV1FyjeKjUqgn27OzyhCNK -- WC_Redsys::process_payment -- El usuario que hace el pedido está logueado en la página
+2023-06-12T10:56:38+00:00 INFO t0K98vWRsGGCwmzlZ953eDx2pUJrEn -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005978z398
+2023-06-12T10:56:39+00:00 INFO t0K98vWRsGGCwmzlZ953eDx2pUJrEn -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005978z399
+2023-06-12T10:56:49+00:00 INFO t0K98vWRsGGCwmzlZ953eDx2pUJrEn -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005978z409
+2023-06-12T10:56:59+00:00 INFO t0K98vWRsGGCwmzlZ953eDx2pUJrEn -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005978z419
+2023-06-12T10:57:09+00:00 INFO PFQzpDfDO7wBT4lbB3IBHD2kJ9H44f -- ****** NUEVO PEDIDO ******
+2023-06-12T10:57:09+00:00 INFO PFQzpDfDO7wBT4lbB3IBHD2kJ9H44f -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T10:57:09+00:00 INFO PFQzpDfDO7wBT4lbB3IBHD2kJ9H44f -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T10:57:09+00:00 INFO PFQzpDfDO7wBT4lbB3IBHD2kJ9H44f -- WC_Redsys::process_payment -- El usuario que hace el pedido no está logueado en la página
+2023-06-12T10:59:15+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- ****** NUEVO PEDIDO ******
+2023-06-12T10:59:15+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T10:59:15+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T10:59:15+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::process_payment -- El usuario que hace el pedido está logueado en la página
+2023-06-12T10:59:16+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005980z556
+2023-06-12T11:27:21+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005980z241
+2023-06-12T11:27:23+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005980z243
+2023-06-12T11:27:24+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- ****** NUEVO PEDIDO ******
+2023-06-12T11:27:24+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T11:27:24+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T11:27:24+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::process_payment -- El usuario que hace el pedido está logueado en la página
+2023-06-12T12:41:31+00:00 INFO NEHXCl2AkPHJ1sKuMWxjNumdVSTA7W -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005981z691
+2023-06-12T12:41:34+00:00 INFO NEHXCl2AkPHJ1sKuMWxjNumdVSTA7W -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005981z694
+2023-06-12T12:41:56+00:00 INFO NEHXCl2AkPHJ1sKuMWxjNumdVSTA7W -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005981z716
+2023-06-12T12:41:58+00:00 INFO NEHXCl2AkPHJ1sKuMWxjNumdVSTA7W -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005981z718
+2023-06-12T12:42:13+00:00 INFO NEHXCl2AkPHJ1sKuMWxjNumdVSTA7W -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005981z733
+2023-06-12T12:42:28+00:00 INFO NEHXCl2AkPHJ1sKuMWxjNumdVSTA7W -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005981z748
+2023-06-12T12:42:30+00:00 INFO NEHXCl2AkPHJ1sKuMWxjNumdVSTA7W -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005981z750
+2023-06-12T12:42:38+00:00 INFO NEHXCl2AkPHJ1sKuMWxjNumdVSTA7W -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005981z758
+2023-06-12T12:42:40+00:00 INFO NEHXCl2AkPHJ1sKuMWxjNumdVSTA7W -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005981z760
+2023-06-12T12:42:48+00:00 INFO YLlksRgs3dnkNZN2NxHDpiS5LVtHTX -- ****** NUEVO PEDIDO ******
+2023-06-12T12:42:48+00:00 INFO YLlksRgs3dnkNZN2NxHDpiS5LVtHTX -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T12:42:48+00:00 INFO YLlksRgs3dnkNZN2NxHDpiS5LVtHTX -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T12:42:48+00:00 INFO YLlksRgs3dnkNZN2NxHDpiS5LVtHTX -- WC_Redsys::process_payment -- El usuario que hace el pedido no está logueado en la página
+2023-06-12T13:44:40+00:00 INFO YNa2B5t21ApNB6s5PDPtKBM09PtZpM -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006013z480
+2023-06-12T13:44:41+00:00 INFO YNa2B5t21ApNB6s5PDPtKBM09PtZpM -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006013z481
+2023-06-12T13:45:03+00:00 INFO YNa2B5t21ApNB6s5PDPtKBM09PtZpM -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006013z503
+2023-06-12T13:45:16+00:00 INFO YNa2B5t21ApNB6s5PDPtKBM09PtZpM -- ****** NUEVO PEDIDO ******
+2023-06-12T13:45:16+00:00 INFO YNa2B5t21ApNB6s5PDPtKBM09PtZpM -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T13:45:16+00:00 INFO YNa2B5t21ApNB6s5PDPtKBM09PtZpM -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T13:45:16+00:00 INFO YNa2B5t21ApNB6s5PDPtKBM09PtZpM -- WC_Redsys::process_payment -- El usuario que hace el pedido no está logueado en la página
+2023-06-12T13:46:42+00:00 INFO YNa2B5t21ApNB6s5PDPtKBM09PtZpM -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006013z602
+2023-06-12T13:46:44+00:00 INFO YNa2B5t21ApNB6s5PDPtKBM09PtZpM -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006013z604
+2023-06-12T13:51:01+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006014z861
+2023-06-12T13:51:02+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006014z862
+2023-06-12T13:51:26+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006014z886
+2023-06-12T13:51:37+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006014z897
+2023-06-12T13:51:39+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006014z899
+2023-06-12T14:23:01+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005980z781
+2023-06-12T14:23:03+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005980z783
+2023-06-12T14:23:06+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- ****** NUEVO PEDIDO ******
+2023-06-12T14:23:06+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T14:23:06+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T14:23:06+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::process_payment -- El usuario que hace el pedido está logueado en la página
+2023-06-12T15:34:26+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006014z66
+2023-06-12T15:34:27+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006014z67
+2023-06-12T15:34:44+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006014z84
+2023-06-12T15:34:44+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006014z84
+2023-06-12T15:34:57+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- ****** NUEVO PEDIDO ******
+2023-06-12T15:34:57+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T15:34:57+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T15:34:57+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- WC_Redsys::process_payment -- El usuario que hace el pedido no está logueado en la página
+2023-06-12T15:35:50+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- ***** VALIDACIÓN DE LA NOTIFICACIÓN  ──  PEDIDO 000006014z84 *****
+2023-06-12T15:35:50+00:00 INFO F6Te0YAYzlwB7VBY8ijVl4wm8IHiIm -- WC_Redsys::check_rds_response -- 9915 - A petición del usuario se cancela el pago.
+2023-06-12T15:36:08+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006018z168
+2023-06-12T15:36:09+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006018z169
+2023-06-12T15:36:13+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- ****** NUEVO PEDIDO ******
+2023-06-12T15:36:13+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T15:36:13+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T15:36:13+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- WC_Redsys::process_payment -- El usuario que hace el pedido no está logueado en la página
+2023-06-12T15:36:34+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- ***** VALIDACIÓN DE LA NOTIFICACIÓN  ──  PEDIDO 00006018z169 *****
+2023-06-12T15:36:34+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- WC_Redsys::check_rds_response -- 0000 - Operación finalizada correctamente.
+2023-06-12T15:36:34+00:00 INFO 8E45ihvEhQWXu6pQNcJ9TD47Rbj38z -- WC_Redsys::check_rds_response -- El pedido con ID de carrito 6018 (00006018z169) es válido y se ha registrado correctamente.
+2023-06-12T17:45:30+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005980z930
+2023-06-12T17:45:32+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00005980z932
+2023-06-12T17:45:35+00:00 INFO RGXUAZcuWm4qwDyJN5XFunYSEqXEGb -- ****** NUEVO PEDIDO ******
+2023-06-12T17:45:35+00:00 INFO RGXUAZcuWm4qwDyJN5XFunYSEqXEGb -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T17:45:35+00:00 INFO RGXUAZcuWm4qwDyJN5XFunYSEqXEGb -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T17:45:35+00:00 INFO RGXUAZcuWm4qwDyJN5XFunYSEqXEGb -- WC_Redsys::process_payment -- El usuario que hace el pedido está logueado en la página
+2023-06-12T17:45:50+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- ***** VALIDACIÓN DE LA NOTIFICACIÓN  ──  PEDIDO 00005980z932 *****
+2023-06-12T17:45:50+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::check_rds_response -- 0000 - Operación finalizada correctamente.
+2023-06-12T17:45:50+00:00 INFO akasdFnXGWzUO2HpLAX2cjN9SkE9FZ -- WC_Redsys::check_rds_response -- El pedido con ID de carrito 5980 (00005980z932) es válido y se ha registrado correctamente.
+2023-06-12T17:47:22+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006020z42
+2023-06-12T17:47:23+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006020z43
+2023-06-12T17:47:28+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006020z48
+2023-06-12T17:47:43+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- ***** VALIDACIÓN DE LA NOTIFICACIÓN  ──  PEDIDO 000006020z48 *****
+2023-06-12T17:47:43+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::check_rds_response -- 0000 - Operación finalizada correctamente.
+2023-06-12T17:47:53+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006020z73
+2023-06-12T17:47:54+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006020z74
+2023-06-12T17:48:15+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- ***** VALIDACIÓN DE LA NOTIFICACIÓN  ──  PEDIDO 000006020z74 *****
+2023-06-12T17:48:15+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::check_rds_response -- 0000 - Operación finalizada correctamente.
+2023-06-12T18:21:13+00:00 INFO RGXUAZcuWm4qwDyJN5XFunYSEqXEGb -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006019z73
+2023-06-12T18:21:14+00:00 INFO RGXUAZcuWm4qwDyJN5XFunYSEqXEGb -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 000006019z74
+2023-06-12T18:21:17+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- ****** NUEVO PEDIDO ******
+2023-06-12T18:21:17+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T18:21:17+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T18:21:17+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::process_payment -- El usuario que hace el pedido está logueado en la página
+2023-06-12T18:21:36+00:00 INFO RGXUAZcuWm4qwDyJN5XFunYSEqXEGb -- ***** VALIDACIÓN DE LA NOTIFICACIÓN  ──  PEDIDO 000006019z74 *****
+2023-06-12T18:21:36+00:00 INFO RGXUAZcuWm4qwDyJN5XFunYSEqXEGb -- WC_Redsys::check_rds_response -- 0000 - Operación finalizada correctamente.
+2023-06-12T18:21:36+00:00 INFO RGXUAZcuWm4qwDyJN5XFunYSEqXEGb -- WC_Redsys::check_rds_response -- El pedido con ID de carrito 6019 (000006019z74) es válido y se ha registrado correctamente.
+2023-06-12T19:18:05+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006020z485
+2023-06-12T19:18:07+00:00 INFO Td0EG0XNLbTTbSTrjubtptung0RBqf -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006020z487
+2023-06-12T19:18:16+00:00 INFO 0jc2QoQreXWb0FyCD7sH3bnSJ2OnCI -- ****** NUEVO PEDIDO ******
+2023-06-12T19:18:16+00:00 INFO 0jc2QoQreXWb0FyCD7sH3bnSJ2OnCI -- WC_Redsys::process_payment -- Pago con Tarjeta redirección
+2023-06-12T19:18:16+00:00 INFO 0jc2QoQreXWb0FyCD7sH3bnSJ2OnCI -- WC_Redsys::process_payment -- ID del usuario cargado: 
+2023-06-12T19:18:16+00:00 INFO 0jc2QoQreXWb0FyCD7sH3bnSJ2OnCI -- WC_Redsys::process_payment -- El usuario que hace el pedido está logueado en la página
+2023-06-12T19:18:27+00:00 INFO 0jc2QoQreXWb0FyCD7sH3bnSJ2OnCI -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006023z507
+2023-06-12T19:18:28+00:00 INFO 0jc2QoQreXWb0FyCD7sH3bnSJ2OnCI -- WC_Redsys::get_redsys_object -- Numero de pedido enviado a Redsys ─ [Ds_Merchant_Order]: 00006023z508

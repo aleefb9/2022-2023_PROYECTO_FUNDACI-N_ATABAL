@@ -1,0 +1,27 @@
+2023-06-12T15:35:50+00:00 CRITICAL Uncaught Exception: Pedido no válido. in /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:120
+Stack trace:
+#0 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/redsyspur/wc-redsys.php(801): WC_Abstract_Order->__construct(6014)
+#3 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-includes/class-wp-hook.php(308): WC_Redsys->check_rds_response('')
+#4 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#5 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-includes/plugin en /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php en la línea 120
+
+2023-06-12T17:47:43+00:00 CRITICAL Uncaught Exception: Pedido no válido. in /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:120
+Stack trace:
+#0 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/redsyspur/wc-redsys.php(801): WC_Abstract_Order->__construct(6020)
+#3 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-includes/class-wp-hook.php(308): WC_Redsys->check_rds_response('')
+#4 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#5 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-includes/plugin en /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php en la línea 120
+
+2023-06-12T17:48:15+00:00 CRITICAL Uncaught Exception: Pedido no válido. in /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:120
+Stack trace:
+#0 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(130): WC_Data_Store->read(Object(WC_Order))
+#2 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/redsyspur/wc-redsys.php(801): WC_Abstract_Order->__construct(6020)
+#3 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-includes/class-wp-hook.php(308): WC_Redsys->check_rds_response('')
+#4 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#5 /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-includes/plugin en /home/user2daw/public_html/18/FA_Wordpress/wordpress/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php en la línea 120
+
